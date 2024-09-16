@@ -1,6 +1,6 @@
 <h1 align="center">Nomoshkar, Ami Sourjya</h1>
 <h3 align="center">just a lazy data enthusiast, staring at the dataset 👓</h3>
-<img src="https://i.pinimg.com/originals/5e/9e/33/5e9e3340292f0b01b987aa51ddcdb7dc.gif" alt="lazy ppl" align="right" height="600" width="400" /> 
+<img src="https://i.pinimg.com/originals/5e/9e/33/5e9e3340292f0b01b987aa51ddcdb7dc.gif" alt="lazy ppl" align="right" height="580" width="400" /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smukherjee2004&label=Profile%20views&color=0e75b6&style=flat" alt="smukherjee2004" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sourjyamukherji" target="blank"><img src="https://img.shields.io/twitter/follow/sourjyamukherji?logo=twitter&style=for-the-badge" alt="sourjyamukherji" /></a> </p>
