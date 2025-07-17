@@ -1,5 +1,5 @@
-<h1 align="center">Nomoshkar 🙏🏻 I am Sourjya</h1>
-<h3 align="center">just a laid-back lad, lost in the dataset daze. 👓</h3>
+<h1 align="center">Hi there! I am Sourjya</h1>
+<h3 align="center">just a laid-back lad, lost in the dataset daze 🌙</h3>
 <!-- <img src="https://i.pinimg.com/originals/5e/9e/33/5e9e3340292f0b01b987aa51ddcdb7dc.gif" alt="lazy ppl" align="right" height="580" width="400" />  -->
 <img src="https://github.com/SMukherjee2004/SMukherjee2004/blob/dc13e46f09e980a69c713258cec6dfe451ede569/20250717_1213_Cozy%20Rainy%20Night%20Workspace_simple_compose_01k0bhvjyefqa83x85kkt4z1fs.png" alt="lazy ppl" align="right" height="580" width="400" /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smukherjee2004&label=Profile%20views&color=0e75b6&style=flat" alt="smukherjee2004" /> </p>
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mukherjeesourjya081@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aF3JyVU44mxeHUusrm67R77H_P1JGIDr/view?usp=drive_link](https://drive.google.com/file/d/1aF3JyVU44mxeHUusrm67R77H_P1JGIDr/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1PuZJgympbYc-a2nrZSqy1e-nB6vO45cs/view?usp=sharing](https://drive.google.com/file/d/1PuZJgympbYc-a2nrZSqy1e-nB6vO45cs/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm not so funny! joking:)**
 
