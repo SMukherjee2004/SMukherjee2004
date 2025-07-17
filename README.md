@@ -14,8 +14,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PuZJgympbYc-a2nrZSqy1e-nB6vO45cs/view?usp=sharing](https://drive.google.com/file/d/1PuZJgympbYc-a2nrZSqy1e-nB6vO45cs/view?usp=sharing)
 
-- ⚡ Fun fact **I think I'm not so funny! joking:)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/smukherjee2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="smukherjee2004" height="30" width="40" /></a>
