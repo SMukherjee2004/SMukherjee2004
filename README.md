@@ -67,5 +67,5 @@
 
 ---
 
-> *"Solving problems one coffee, one rainy night, and one dataset at a time."*
+> *"one coffee, one rainy night, and one problem at a time."*
 
