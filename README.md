@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I’m Sourjya 👓</h1>
+<h1 align="center">Hi there! I’m Sourjya (সৌর্য্য 👓)</h1>
 <h3 align="center">just a laid-back lad, lost in the dataset daze 🌙</h3>
 
 <p align="center">
