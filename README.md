@@ -117,12 +117,6 @@ contact  : sourjya.mukherji@gmail.com
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════╗
-║   one coffee  ·  one rainy night  ·  one problem ║
-╚══════════════════════════════════════════════════╝
-```
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:0d1117&height=90&section=footer" width="100%"/>
 
 </div>
