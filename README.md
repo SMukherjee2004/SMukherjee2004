@@ -38,7 +38,7 @@ contact  : sourjya.mukherji@gmail.com
 - 🧠 &nbsp; diving deep into **PINNs & PGNNs**
 - 🔭 &nbsp; exploring the edge where data meets creativity
 - 💬 &nbsp; open to chat — **Python**, **ML**, or anything data-shaped
-- 📄 &nbsp; [view my résumé →](https://drive.google.com/file/d/1PuZJgympbYc-a2nrZSqy1e-nB6vO45cs/view?usp=sharing)
+- 📄 &nbsp; [my résumé →](https://drive.google.com/file/d/1PuZJgympbYc-a2nrZSqy1e-nB6vO45cs/view?usp=sharing)
 
 <br/><br/><br/><br/><br/>
 
