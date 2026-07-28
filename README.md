@@ -34,7 +34,7 @@ contact  : sourjya.mukherji@gmail.com
 ### `$ ls -la ./currently`
 
 - 🧠 &nbsp; diving deep into **PINNs & PGNNs**
-- 💬 &nbsp; open to chat — **Maths**, **ML and algos**, or good fiction✨
+- 💬 &nbsp; open to chat 'bout **Maths**, **ML and algos**, or good fiction✨
 - 📄 &nbsp; [my résumé](https://drive.google.com/file/d/1PuZJgympbYc-a2nrZSqy1e-nB6vO45cs/view?usp=sharing)
 
 <br/><br/><br/><br/><br/>
