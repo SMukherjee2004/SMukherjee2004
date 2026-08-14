@@ -11,6 +11,7 @@ from deep learning research to deployed, tested, containerized applications.
 [![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readdotcv&logoColor=white)](https://drive.google.com/file/d/1oJOqu5oYsxDaLBOjDmLVH4xUOTSnBYOg/view?usp=sharing)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/mukherjeesourjya)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/sourjyam)
+[![DeepML](https://img.shields.io/badge/DeepML-6C3EF5?style=for-the-badge&logo=codeforces&logoColor=white)](https://www.deep-ml.com/profile/4rIqr1YHx3hmiadyNFkkA5rnbRE2)
 
 </div>
 
