@@ -9,6 +9,7 @@ from deep learning research to deployed, tested, containerized applications.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sourjya-mukherjee)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukherjeesourjya081@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readdotcv&logoColor=white)](https://drive.google.com/file/d/1oJOqu5oYsxDaLBOjDmLVH4xUOTSnBYOg/view?usp=sharing)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white)](https://smukherjee2004.github.io/Portfolio/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/mukherjeesourjya)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/sourjyam)
 [![DeepML](https://img.shields.io/badge/DeepML-6C3EF5?style=for-the-badge&logo=codeforces&logoColor=white)](https://www.deep-ml.com/profile/4rIqr1YHx3hmiadyNFkkA5rnbRE2)
